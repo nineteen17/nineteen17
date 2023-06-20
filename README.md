@@ -1,5 +1,9 @@
 👋 Hi, I’m Nick, an aspiring Full Stack Developer and Cloud Computing enthusiast currently learning at Mission Ready HQ.
 
+🌱 I am continuously expanding my knowledge and skills, using best practices, and exploring the latest industry trends.
+
+👯 I’m open to collaborating on projects and always looking for opportunities to learn and grow.
+
 🔭 I'm proficient in a range of technologies including:
 
 - **Languages and Frameworks**: JavaScript, TypeScript, React, Node.js with Express, and CSS/SASS.
@@ -9,9 +13,6 @@
 - **Version Control and CI/CD Tools**: GitHub for version control and GitHub Actions for continuous integration and deployment.
 - **Testing Libraries**: Jest and node-mocks-http.
 
-🌱 I am continuously expanding my knowledge and skills, using best practices, and exploring the latest industry trends.
-
-👯 I’m open to collaborating on projects and always looking for opportunities to learn and grow.
 
 💬 Feel free to reach out if you have any questions or if you want to discuss potential collaborations!
 
