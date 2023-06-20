@@ -6,28 +6,18 @@
 
 🔭 I'm proficient in a range of technologies including:
 
-- ![JavaScript Logo](url_to_javascript_logo) JavaScript
-- ![TypeScript Logo](url_to_typescript_logo) TypeScript
-- ![React Logo](url_to_react_logo) React
-- ![Node.js Logo](url_to_nodejs_logo) Node.js with Express
-- ![CSS/SASS Logo](url_to_css_sass_logo) CSS/SASS
-- ![MySQL Logo](url_to_mysql_logo) MySQL Workbench
-- ![MongoDB Logo](url_to_mongodb_logo) MongoDB
-- ![Mongoose Logo](url_to_mongoose_logo) Mongoose
-- ![Zustand Logo](url_to_zustand_logo) Zustand
-- ![React Query Logo](url_to_react_query_logo) React Query
-- ![Azure Web Apps Logo](url_to_azure_web_apps_logo) Azure Web Apps
-- ![Azure Kubernetes Services Logo](url_to_azure_kubernetes_services_logo) Azure Kubernetes Services
-- ![Docker Logo](url_to_docker_logo) Docker
-- ![Azure Fundamentals Logo](url_to_azure_fundamentals_logo) Azure Fundamentals
-- ![GitHub Logo](url_to_github_logo) GitHub
-- ![GitHub Actions Logo](url_to_github_actions_logo) GitHub Actions
-- ![Jest Logo](url_to_jest_logo) Jest
-- ![Node-mocks-http Logo](url_to_node_mocks_http_logo) Node-mocks-http
+- **Languages and Frameworks**: JavaScript, TypeScript, React, Node.js with Express, and CSS/SASS.
+- **Database Technologies**: MySQL Workbench, MongoDB, and Mongoose.
+- **State Management and Data Fetching Libraries**: Zustand and React Query.
+- **Cloud and DevOps Skills**: Azure Web Apps, Azure Kubernetes Services, Docker, and Azure Fundamentals.
+- **Version Control and CI/CD Tools**: GitHub for version control and GitHub Actions for continuous integration and deployment.
+- **Testing Libraries**: Jest and node-mocks-http.
+
 
 💬 Feel free to reach out if you have any questions or if you want to discuss potential collaborations!
+
 
 <!---
 nineteen17/nineteen17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->  
