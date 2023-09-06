@@ -1,4 +1,4 @@
-👋 Hi, I’m Nick, an aspiring Full Stack Developer and Cloud Computing student currently learning at Mission Ready HQ.
+👋 Hi, I’m Nick, an aspiring Full Stack Developer and Cloud Computing Engineer
 
 🌱 I am continuously expanding my knowledge and skills, using best practices, and exploring the latest industry trends.
 
@@ -7,11 +7,10 @@
 🔭 I'm proficient in a range of technologies including:
 
 - **Languages and Frameworks**: JavaScript, TypeScript, React, Node.js with Express, and CSS/SASS.
-- **Database Technologies**: MySQL Workbench, MongoDB, and Mongoose.
-- **State Management and Data Fetching Libraries**: Zustand and React Query.
-- **Cloud and DevOps Skills**: Azure Web Apps, Azure Kubernetes Services, Docker, and Azure Fundamentals.
-- **Version Control and CI/CD Tools**: GitHub and GitLab for version control and GitHub Actions for continuous integration and deployment.
-- **Testing Libraries**: Jest, Supertest and node-mocks-http.
+- **Database Technologies**: MySQL, MongoDB, and Mongoose.
+- **State Management and Data Fetching Libraries**: Zustand, Redux Toolkit and React Query.
+- **Cloud and DevOps Skills**: Azure Web Apps, Azure Kubernetes Services, Docker.
+- **Version Control and CI/CD Tools**: GitHub, GiLab, GitHub Actions, Jenkins **Testing Libraries and Tools**: Jest, Supertest and node-mocks-http, TestRail.
 
 
 💬 Feel free to reach out if you have any questions or if you want to discuss potential collaborations!
