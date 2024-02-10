@@ -1,16 +1,22 @@
-👋 Hi, I’m Nick, an aspiring Full Stack Developer and Cloud Computing Engineer
+### Hi there, I'm Nick 👋
 
-🔭 I'm proficient in a range of technologies including:
+Aspiring Full Stack Developer and Cloud Computing Engineer.
 
-- **Languages and Frameworks**: JavaScript, TypeScript, React, Node.js with Express, and CSS/SASS.
-- **Database Technologies**: MySQL, MongoDB, and Mongoose.
-- **State Management and Data Fetching Libraries**: Zustand, Redux Toolkit and React Query.
-- **Cloud and DevOps Skills**: Azure Web Apps, Azure Kubernetes Services, Docker.
-- **Version Control and CI/CD Tools**: GitHub, GitLab, GitHub Actions, Jenkins.
-- **Testing Libraries and Tools**: Jest, Supertest and node-mocks-http, TestRail.
+#### Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-yellow)
+![](https://img.shields.io/badge/Code-TypeScript-blue)
+![](https://img.shields.io/badge/Web-React-blue)
+![](https://img.shields.io/badge/Server-Node.js-green)
+![](https://img.shields.io/badge/Style-CSS/SASS-pink)
+![](https://img.shields.io/badge/DB-MySQL-blue)
+![](https://img.shields.io/badge/DB-MongoDB-green)
+![](https://img.shields.io/badge/Cloud-Azure-blue)
+![](https://img.shields.io/badge/DevOps-Docker-blue)
+![](https://img.shields.io/badge/VCS-GitHub-lightgrey)
+![](https://img.shields.io/badge/CI/CD-GitHub_Actions-yellowgreen)
+![](https://img.shields.io/badge/Test-Jest-red)
 
-
-💬 Feel free to reach out if you have any questions or if you want to discuss potential collaborations!
+Feel free to reach out if you have any questions or want to discuss potential collaborations!
 
 
 <!---
