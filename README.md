@@ -1,6 +1,6 @@
 ### Hi there, I'm Nick 👋
 
-A Junior Full Stack Developer and Cloud Computing Engineer.
+A Full Stack Developer and Cloud Computing Engineer.
 
 #### Technologies & Tools
 <p>
